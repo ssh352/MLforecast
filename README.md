@@ -26,7 +26,7 @@ for (i in to_install) {
 
 ```r
 
-devtools::install_github("EconMatrix/MLforecast")
+devtools::install_github("Akai01/MLforecast")
 
 ```
 
