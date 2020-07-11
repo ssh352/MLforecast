@@ -1,0 +1,11 @@
+Package: MLforecast
+Type: Package
+Title: Autoregressive forecast using Machine Learning models
+Version: 0.0.1
+Date: 2019-10-26
+Author: Res Akay
+Maintainer: Res Akay <resulakay1@gmail.com>
+Description: Autoregressive forecast using various Machine Learning models.
+License: MIT
+Encoding: UTF-8
+LazyData: true
